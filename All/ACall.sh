@@ -1,7 +1,7 @@
 #!/bin/bash
 killall -9 steam
 rm -rf ~/Steam-Metadata-Editor/
-wget "https://raw.githubusercontent.com/begin-theadventure/acfix/main/AC%202/modifications.json"
+wget "https://raw.githubusercontent.com/begin-theadventure/acfix/main/AC%20Unity/modifications.json"
 git clone "https://github.com/tralph3/Steam-Metadata-Editor" ~/Steam-Metadata-Editor/
 mv modifications.json ~/.local/share/Steam-Metadata-Editor/config
 cd ~/Steam-Metadata-Editor/src
@@ -18,7 +18,7 @@ mv modifications.json ~/.local/share/Steam-Metadata-Editor/config
 steammetadataeditor -s
 
 cd ~/
-wget -c "https://raw.githubusercontent.com/begin-theadventure/acfix/main/AC%20Unity/modifications.json"
+wget -c "https://raw.githubusercontent.com/begin-theadventure/acfix/main/AC%202/modifications.json"
 mv modifications.json ~/.local/share/Steam-Metadata-Editor/config
 steammetadataeditor -s
 
