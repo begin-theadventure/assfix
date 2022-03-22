@@ -1,0 +1,1527 @@
+{
+  "289650": {
+    "original": {
+      "appinfo": {
+        "appid": 289650,
+        "common": {
+          "name": "Assassin's Creed Unity",
+          "type": "Game",
+          "releasestate": "released",
+          "oslist": "windows",
+          "logo": "83f480dbfb5da90a58d9b9766571c9ef4c2a55ac",
+          "logo_small": "83f480dbfb5da90a58d9b9766571c9ef4c2a55ac_thumb",
+          "icon": "0629ffe7fc7d88011c5b9705625bfe3791fe0afe",
+          "clienticon": "63458298d4e547a5c01d52e2c2a74dd2473139db",
+          "clienttga": "658f48b1156f8294c1b88e0f4867afaa94c27849",
+          "eulas": {
+            "0": {
+              "id": "289650_eula_0",
+              "name": "Assassin\u2019s Creed Unity EULA",
+              "url": "http://store.steampowered.com//eula/289650_eula_0"
+            }
+          },
+          "sortas": "Assassin's Creed 5",
+          "metacritic_name": "Assassin\u2019s Creed Unity",
+          "controller_support": "partial",
+          "small_capsule": {
+            "english": "capsule_231x87.jpg"
+          },
+          "header_image": {
+            "english": "header.jpg"
+          },
+          "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+              "pinned_position": "BottomCenter",
+              "width_pct": 100,
+              "height_pct": "60.43837568273568"
+            }
+          },
+          "store_asset_mtime": 1575045046,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Ubisoft"
+            },
+            "1": {
+              "type": "publisher",
+              "name": "Ubisoft"
+            },
+            "2": {
+              "type": "franchise",
+              "name": "Assassin's Creed"
+            }
+          },
+          "primary_genre": 1,
+          "genres": {
+            "0": 1,
+            "1": 25
+          },
+          "category": {
+            "category_2": 1,
+            "category_9": 1,
+            "category_1": 1,
+            "category_18": 1,
+            "category_35": 1,
+            "category_45": 1,
+            "category_46": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "arabic": {
+              "subtitles": "true"
+            },
+            "czech": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "dutch": {
+              "supported": "true",
+              "subtitles": "true"
+            }
+          },
+          "community_hub_visible": 1,
+          "gameid": 289650,
+          "store_tags": {
+            "0": 1695,
+            "1": 4036,
+            "2": 4376,
+            "3": 1687,
+            "4": 3987,
+            "5": 1685,
+            "6": 19,
+            "7": 21,
+            "8": 1697,
+            "9": 3859,
+            "10": 3843,
+            "11": 4166,
+            "12": 4182,
+            "13": 1742,
+            "14": 1756,
+            "15": 122,
+            "16": 4231,
+            "17": 3810,
+            "18": 1708,
+            "19": 599
+          },
+          "review_score": 6,
+          "review_percentage": 74
+        },
+        "extended": {
+          "allowmicrotxnfromrestrictedcountries": 0,
+          "microtxnrestrictedcountries": "RU,BY",
+          "developer": "Ubisoft",
+          "publisher": "Ubisoft",
+          "homepage": "http://www.assassinscreed.com",
+          "listofdlc": "324330,324331,324332,324333,330960,330961,330970,330980,330981,330982,330983,330984,330985,330986,330987,330988,331950,344600"
+        },
+        "config": {
+          "contenttype": 3,
+          "installdir": "Assassin's Creed Unity",
+          "launch": {
+            "0": {
+              "executable": "ACU.exe",
+              "arguments": "-uplay_steam_mode",
+              "description": "Launch",
+              "config": {
+                "oslist": "windows",
+                "osarch": "64"
+              }
+            }
+          }
+        },
+        "depots": {
+          "overridescddb": 1,
+          "baselanguages": "",
+          "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+              "oslist": "windows",
+              "language": ""
+            },
+            "maxsize": 19265607,
+            "depotfromapp": 228980,
+            "sharedinstall": 1
+          },
+          "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+              "oslist": "windows",
+              "language": ""
+            },
+            "maxsize": 102931551,
+            "depotfromapp": 228980,
+            "sharedinstall": 1
+          },
+          "289651": {
+            "name": "Assassin\u2019s Creed Unity Content",
+            "systemdefined": 1,
+            "manifests": {
+              "public": "2453667985741823211"
+            },
+            "maxsize": "35604012629",
+            "encryptedmanifests": {
+              "alpha": {
+                "encrypted_gid_2": "1D863847DD021C08746013D226193C51",
+                "encrypted_size_2": "A0ACF37A1E65307F6F2AC050CF144C4A"
+              },
+              "beta_ww": {
+                "encrypted_gid_2": "4C219AA62FB6C0F1A8465F07AA3B0E5A",
+                "encrypted_size_2": "7DDD06DB922A358243AA5215BDD33E8C"
+              },
+              "dlc_11": {
+                "encrypted_gid_2": "A3AFAD2F3968171D8E87165D2136C4E0",
+                "encrypted_size_2": "A43D141DBF1989882538222C05FFDF57"
+              },
+              "dlc_11_rus": {
+                "encrypted_gid_2": "93D94C4839E4BCEE154FD76A6D0566D0",
+                "encrypted_size_2": "FA2F78545B7A1027B53A85A01BAB30EA"
+              },
+              "dlc11_tu4": {
+                "encrypted_gid_2": "4A53DD2C9CE7CCF26D82CB715129187E",
+                "encrypted_size_2": "EBA302797F86788BD02CEEF7FB7FDC02"
+              },
+              "dlc11_tu4_rus": {
+                "encrypted_gid_2": "519B4F3A6CC401FC4FEAC00184753128",
+                "encrypted_size_2": "FA77700E79C19D7A08217B4B20D0BB71"
+              },
+              "gm": {
+                "encrypted_gid_2": "CC44CC82029BD204F617E88D2572A571",
+                "encrypted_size_2": "7442534432D97984B301EA3241E0EC12"
+              },
+              "tu1": {
+                "encrypted_gid_2": "08508207D27E0D36853527904EB86497",
+                "encrypted_size_2": "E080581976EB4286BEF03E93FA1F227E"
+              },
+              "tu2": {
+                "encrypted_gid_2": "6FC96358E810E95B523BD0E01C141F9C",
+                "encrypted_size_2": "C49E24DCE962BC4F04F15C97BA9F5FE5"
+              },
+              "tu3_v2": {
+                "encrypted_gid_2": "29E695469E561ABFD0746992A6BF02EE",
+                "encrypted_size_2": "9E25EA36EBBDB9E3F4424C5ED833D4EE"
+              },
+              "tu4": {
+                "encrypted_gid_2": "A413ECAA4BDEEB84A4E0AAABBD4C1B90",
+                "encrypted_size_2": "87CBD2F0C395E6D870028E30C5D74692"
+              }
+            }
+          },
+          "289653": {
+            "name": "RUS",
+            "manifests": {
+              "public": "1806377459706772600"
+            },
+            "maxsize": "5511762875",
+            "encryptedmanifests": {
+              "alpha": {
+                "encrypted_gid_2": "E396494EE312924031603CE1BA403A87",
+                "encrypted_size_2": "A5F25A12695D0B11C5D43E9439298B20"
+              },
+              "beta_ww": {
+                "encrypted_gid_2": "FA9550B6CDCC14D6EA50E3732C41954B",
+                "encrypted_size_2": "903205890F8126042BAC16D57BDA38C2"
+              },
+              "dlc_11": {
+                "encrypted_gid_2": "4491AB710A8577BC0AECA52AB96DA176",
+                "encrypted_size_2": "D16A8BF797C5CA1E368530BB69A49A15"
+              },
+              "dlc_11_rus": {
+                "encrypted_gid_2": "3976A98890B58354AC35B469F2A3EA05",
+                "encrypted_size_2": "0330926F73E604EFEE691B40ACE23233"
+              },
+              "dlc11_tu4": {
+                "encrypted_gid_2": "1EAE75701B51BA0BF93E5643DB4BF8A6",
+                "encrypted_size_2": "EAFB11F12D9ADD2B96F3B3F04EAD4E58"
+              },
+              "dlc11_tu4_rus": {
+                "encrypted_gid_2": "F8E8391ADD5C10F2C0896414F2E11E33",
+                "encrypted_size_2": "0AE82E13935C9E91B17ACAC48080B3DB"
+              },
+              "tu1": {
+                "encrypted_gid_2": "7BC80CA689B2EA9E80DC43C8D68EBCA0",
+                "encrypted_size_2": "BA49850091E054A6081456A6161BEAF7"
+              },
+              "tu2": {
+                "encrypted_gid_2": "41F3043671B91811AABD2C92D9CBFBDC",
+                "encrypted_size_2": "9CFA37B420A8B70A69BF6FF16D61FCC4"
+              },
+              "tu3_v2": {
+                "encrypted_gid_2": "B950F911F2B8C9B3AA8C23C5B073DD79",
+                "encrypted_size_2": "91D375AD9D00758507229B7D16148326"
+              },
+              "tu4": {
+                "encrypted_gid_2": "BBEA5736B99D546CF474D94E45368858",
+                "encrypted_size_2": "C9AD3C5A7EA80A3120DB7C6E944E0EEA"
+              }
+            }
+          },
+          "289652": {
+            "name": "WW",
+            "manifests": {
+              "public": "3043263599758495174"
+            },
+            "maxsize": "9113933852",
+            "encryptedmanifests": {
+              "alpha": {
+                "encrypted_gid_2": "296FF4D315AE7757354FB322BE76EB86",
+                "encrypted_size_2": "5360F0D0F4C4F2F73E6980048F6BF32E"
+              },
+              "beta_ww": {
+                "encrypted_gid_2": "F10413D5B670BECAECEB4C4190A6FA4D",
+                "encrypted_size_2": "D6F1A9C6C96324110B745FFD9E801B01"
+              },
+              "dlc_11": {
+                "encrypted_gid_2": "C38C2E10B15C0FE9BAA4FDCD6E7DD05B",
+                "encrypted_size_2": "7CE9688A09A0FB43D3EEE725272A45D0"
+              },
+              "dlc_11_rus": {
+                "encrypted_gid_2": "760BDA494A01B0B2C9D9C77256468226",
+                "encrypted_size_2": "A0460C01623CCF084027D66D3D0280FE"
+              },
+              "dlc11_tu4": {
+                "encrypted_gid_2": "5663B1EA8798E20A42438220D9BAFC62",
+                "encrypted_size_2": "4C331E92032B4DB0276BF42D9AF72B21"
+              },
+              "dlc11_tu4_rus": {
+                "encrypted_gid_2": "47B9A2DF70F971C50392BD1145086ADC",
+                "encrypted_size_2": "9F5FF14BC42CC9DC7F95F55E24D171BA"
+              },
+              "gm": {
+                "encrypted_gid_2": "43F10BBA073E6A6199350492C74C931D",
+                "encrypted_size_2": "0F51934D8B48BBDE967A838CE9A63B93"
+              },
+              "tu1": {
+                "encrypted_gid_2": "D20608937CDC37B1BFB54DE39A024E30",
+                "encrypted_size_2": "8E6A1EE27977CEB93483D45070047804"
+              },
+              "tu2": {
+                "encrypted_gid_2": "3D7F2ABF5BD550D541191A9FC40DB193",
+                "encrypted_size_2": "8EEEBEEC202D5DA08A1521731C9C5D17"
+              },
+              "tu3_v2": {
+                "encrypted_gid_2": "4EB50664973C33D23A1A2B9080098067",
+                "encrypted_size_2": "911F97B52B4462017CDF6E126CE282DA"
+              },
+              "tu4": {
+                "encrypted_gid_2": "A1B7329AEA2EA563C05229EDC0F79B39",
+                "encrypted_size_2": "69B0CF8F01A74CEC864A3CD49E1C19EE"
+              },
+              "tu5_rus": {
+                "encrypted_gid_2": "697C8173DFF52065DDB45F3D1D1E703E",
+                "encrypted_size_2": "3FE26F26EBDF474917D39227EF3DF6CF"
+              }
+            }
+          },
+          "324333": {
+            "name": "Dead King (324333) Depot",
+            "manifests": {
+              "public": "4731501881144486504"
+            },
+            "maxsize": "8318709893",
+            "dlcappid": 324333
+          },
+          "branches": {
+            "public": {
+              "buildid": 522235
+            },
+            "alpha": {
+              "buildid": 305097,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "beta_ww": {
+              "buildid": 379409,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "dlc_11": {
+              "buildid": 491995,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "dlc_11_rus": {
+              "buildid": 492001,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "dlc11_tu4": {
+              "buildid": 494998,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "dlc11_tu4_rus": {
+              "buildid": 495001,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "gm": {
+              "buildid": 401492,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu1": {
+              "buildid": 425239,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu2": {
+              "buildid": 440290,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu3_v2": {
+              "buildid": 453039,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu4": {
+              "buildid": 473256,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu5": {
+              "buildid": 522235,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu5_rus": {
+              "buildid": 522216,
+              "description": "",
+              "pwdrequired": 1
+            }
+          }
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 289650,
+        "common": {
+          "name": "Assassin's Creed Unity",
+          "type": "Game",
+          "releasestate": "released",
+          "oslist": "windows",
+          "logo": "83f480dbfb5da90a58d9b9766571c9ef4c2a55ac",
+          "logo_small": "83f480dbfb5da90a58d9b9766571c9ef4c2a55ac_thumb",
+          "icon": "0629ffe7fc7d88011c5b9705625bfe3791fe0afe",
+          "clienticon": "63458298d4e547a5c01d52e2c2a74dd2473139db",
+          "clienttga": "658f48b1156f8294c1b88e0f4867afaa94c27849",
+          "eulas": {
+            "0": {
+              "id": "289650_eula_0",
+              "name": "Assassin\u2019s Creed Unity EULA",
+              "url": "http://store.steampowered.com//eula/289650_eula_0"
+            }
+          },
+          "sortas": "Assassin's Creed Unity",
+          "metacritic_name": "Assassin\u2019s Creed Unity",
+          "controller_support": "partial",
+          "small_capsule": {
+            "english": "capsule_231x87.jpg"
+          },
+          "header_image": {
+            "english": "header.jpg"
+          },
+          "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_logo": "en",
+            "logo_position": {
+              "pinned_position": "BottomCenter",
+              "width_pct": 100,
+              "height_pct": "60.43837568273568"
+            }
+          },
+          "store_asset_mtime": 1575045046,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Ubisoft"
+            },
+            "1": {
+              "type": "publisher",
+              "name": "Ubisoft"
+            },
+            "2": {
+              "type": "franchise",
+              "name": "Assassin's Creed"
+            }
+          },
+          "primary_genre": 1,
+          "genres": {
+            "0": 1,
+            "1": 25
+          },
+          "category": {
+            "category_2": 1,
+            "category_9": 1,
+            "category_1": 1,
+            "category_18": 1,
+            "category_35": 1,
+            "category_45": 1,
+            "category_46": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "arabic": {
+              "subtitles": "true"
+            },
+            "czech": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "dutch": {
+              "supported": "true",
+              "subtitles": "true"
+            }
+          },
+          "community_hub_visible": 1,
+          "gameid": 289650,
+          "store_tags": {
+            "0": 1695,
+            "1": 4036,
+            "2": 4376,
+            "3": 1687,
+            "4": 3987,
+            "5": 1685,
+            "6": 19,
+            "7": 21,
+            "8": 1697,
+            "9": 3859,
+            "10": 3843,
+            "11": 4166,
+            "12": 4182,
+            "13": 1742,
+            "14": 1756,
+            "15": 122,
+            "16": 4231,
+            "17": 3810,
+            "18": 1708,
+            "19": 599
+          },
+          "review_score": 6,
+          "review_percentage": 74
+        },
+        "extended": {
+          "allowmicrotxnfromrestrictedcountries": 0,
+          "microtxnrestrictedcountries": "RU,BY",
+          "developer": "Ubisoft",
+          "publisher": "Ubisoft",
+          "homepage": "http://www.assassinscreed.com",
+          "listofdlc": "324330,324331,324332,324333,330960,330961,330970,330980,330981,330982,330983,330984,330985,330986,330987,330988,331950,344600"
+        },
+        "config": {
+          "contenttype": 3,
+          "installdir": "Assassin's Creed Unity",
+          "launch": {
+            "0": {
+              "executable": "ACU.exe",
+              "arguments": "-uplay_steam_mode",
+              "description": "Launch",
+              "config": {
+                "oslist": "windows",
+                "osarch": "64"
+              }
+            }
+          }
+        },
+        "depots": {
+          "overridescddb": 1,
+          "baselanguages": "",
+          "228983": {
+            "name": "VC 2010 Redist",
+            "config": {
+              "oslist": "windows",
+              "language": ""
+            },
+            "maxsize": 19265607,
+            "depotfromapp": 228980,
+            "sharedinstall": 1
+          },
+          "228990": {
+            "name": "DirectX Jun 2010 Redist",
+            "config": {
+              "oslist": "windows",
+              "language": ""
+            },
+            "maxsize": 102931551,
+            "depotfromapp": 228980,
+            "sharedinstall": 1
+          },
+          "289651": {
+            "name": "Assassin\u2019s Creed Unity Content",
+            "systemdefined": 1,
+            "manifests": {
+              "public": "2453667985741823211"
+            },
+            "maxsize": "35604012629",
+            "encryptedmanifests": {
+              "alpha": {
+                "encrypted_gid_2": "1D863847DD021C08746013D226193C51",
+                "encrypted_size_2": "A0ACF37A1E65307F6F2AC050CF144C4A"
+              },
+              "beta_ww": {
+                "encrypted_gid_2": "4C219AA62FB6C0F1A8465F07AA3B0E5A",
+                "encrypted_size_2": "7DDD06DB922A358243AA5215BDD33E8C"
+              },
+              "dlc_11": {
+                "encrypted_gid_2": "A3AFAD2F3968171D8E87165D2136C4E0",
+                "encrypted_size_2": "A43D141DBF1989882538222C05FFDF57"
+              },
+              "dlc_11_rus": {
+                "encrypted_gid_2": "93D94C4839E4BCEE154FD76A6D0566D0",
+                "encrypted_size_2": "FA2F78545B7A1027B53A85A01BAB30EA"
+              },
+              "dlc11_tu4": {
+                "encrypted_gid_2": "4A53DD2C9CE7CCF26D82CB715129187E",
+                "encrypted_size_2": "EBA302797F86788BD02CEEF7FB7FDC02"
+              },
+              "dlc11_tu4_rus": {
+                "encrypted_gid_2": "519B4F3A6CC401FC4FEAC00184753128",
+                "encrypted_size_2": "FA77700E79C19D7A08217B4B20D0BB71"
+              },
+              "gm": {
+                "encrypted_gid_2": "CC44CC82029BD204F617E88D2572A571",
+                "encrypted_size_2": "7442534432D97984B301EA3241E0EC12"
+              },
+              "tu1": {
+                "encrypted_gid_2": "08508207D27E0D36853527904EB86497",
+                "encrypted_size_2": "E080581976EB4286BEF03E93FA1F227E"
+              },
+              "tu2": {
+                "encrypted_gid_2": "6FC96358E810E95B523BD0E01C141F9C",
+                "encrypted_size_2": "C49E24DCE962BC4F04F15C97BA9F5FE5"
+              },
+              "tu3_v2": {
+                "encrypted_gid_2": "29E695469E561ABFD0746992A6BF02EE",
+                "encrypted_size_2": "9E25EA36EBBDB9E3F4424C5ED833D4EE"
+              },
+              "tu4": {
+                "encrypted_gid_2": "A413ECAA4BDEEB84A4E0AAABBD4C1B90",
+                "encrypted_size_2": "87CBD2F0C395E6D870028E30C5D74692"
+              }
+            }
+          },
+          "289653": {
+            "name": "RUS",
+            "manifests": {
+              "public": "1806377459706772600"
+            },
+            "maxsize": "5511762875",
+            "encryptedmanifests": {
+              "alpha": {
+                "encrypted_gid_2": "E396494EE312924031603CE1BA403A87",
+                "encrypted_size_2": "A5F25A12695D0B11C5D43E9439298B20"
+              },
+              "beta_ww": {
+                "encrypted_gid_2": "FA9550B6CDCC14D6EA50E3732C41954B",
+                "encrypted_size_2": "903205890F8126042BAC16D57BDA38C2"
+              },
+              "dlc_11": {
+                "encrypted_gid_2": "4491AB710A8577BC0AECA52AB96DA176",
+                "encrypted_size_2": "D16A8BF797C5CA1E368530BB69A49A15"
+              },
+              "dlc_11_rus": {
+                "encrypted_gid_2": "3976A98890B58354AC35B469F2A3EA05",
+                "encrypted_size_2": "0330926F73E604EFEE691B40ACE23233"
+              },
+              "dlc11_tu4": {
+                "encrypted_gid_2": "1EAE75701B51BA0BF93E5643DB4BF8A6",
+                "encrypted_size_2": "EAFB11F12D9ADD2B96F3B3F04EAD4E58"
+              },
+              "dlc11_tu4_rus": {
+                "encrypted_gid_2": "F8E8391ADD5C10F2C0896414F2E11E33",
+                "encrypted_size_2": "0AE82E13935C9E91B17ACAC48080B3DB"
+              },
+              "tu1": {
+                "encrypted_gid_2": "7BC80CA689B2EA9E80DC43C8D68EBCA0",
+                "encrypted_size_2": "BA49850091E054A6081456A6161BEAF7"
+              },
+              "tu2": {
+                "encrypted_gid_2": "41F3043671B91811AABD2C92D9CBFBDC",
+                "encrypted_size_2": "9CFA37B420A8B70A69BF6FF16D61FCC4"
+              },
+              "tu3_v2": {
+                "encrypted_gid_2": "B950F911F2B8C9B3AA8C23C5B073DD79",
+                "encrypted_size_2": "91D375AD9D00758507229B7D16148326"
+              },
+              "tu4": {
+                "encrypted_gid_2": "BBEA5736B99D546CF474D94E45368858",
+                "encrypted_size_2": "C9AD3C5A7EA80A3120DB7C6E944E0EEA"
+              }
+            }
+          },
+          "289652": {
+            "name": "WW",
+            "manifests": {
+              "public": "3043263599758495174"
+            },
+            "maxsize": "9113933852",
+            "encryptedmanifests": {
+              "alpha": {
+                "encrypted_gid_2": "296FF4D315AE7757354FB322BE76EB86",
+                "encrypted_size_2": "5360F0D0F4C4F2F73E6980048F6BF32E"
+              },
+              "beta_ww": {
+                "encrypted_gid_2": "F10413D5B670BECAECEB4C4190A6FA4D",
+                "encrypted_size_2": "D6F1A9C6C96324110B745FFD9E801B01"
+              },
+              "dlc_11": {
+                "encrypted_gid_2": "C38C2E10B15C0FE9BAA4FDCD6E7DD05B",
+                "encrypted_size_2": "7CE9688A09A0FB43D3EEE725272A45D0"
+              },
+              "dlc_11_rus": {
+                "encrypted_gid_2": "760BDA494A01B0B2C9D9C77256468226",
+                "encrypted_size_2": "A0460C01623CCF084027D66D3D0280FE"
+              },
+              "dlc11_tu4": {
+                "encrypted_gid_2": "5663B1EA8798E20A42438220D9BAFC62",
+                "encrypted_size_2": "4C331E92032B4DB0276BF42D9AF72B21"
+              },
+              "dlc11_tu4_rus": {
+                "encrypted_gid_2": "47B9A2DF70F971C50392BD1145086ADC",
+                "encrypted_size_2": "9F5FF14BC42CC9DC7F95F55E24D171BA"
+              },
+              "gm": {
+                "encrypted_gid_2": "43F10BBA073E6A6199350492C74C931D",
+                "encrypted_size_2": "0F51934D8B48BBDE967A838CE9A63B93"
+              },
+              "tu1": {
+                "encrypted_gid_2": "D20608937CDC37B1BFB54DE39A024E30",
+                "encrypted_size_2": "8E6A1EE27977CEB93483D45070047804"
+              },
+              "tu2": {
+                "encrypted_gid_2": "3D7F2ABF5BD550D541191A9FC40DB193",
+                "encrypted_size_2": "8EEEBEEC202D5DA08A1521731C9C5D17"
+              },
+              "tu3_v2": {
+                "encrypted_gid_2": "4EB50664973C33D23A1A2B9080098067",
+                "encrypted_size_2": "911F97B52B4462017CDF6E126CE282DA"
+              },
+              "tu4": {
+                "encrypted_gid_2": "A1B7329AEA2EA563C05229EDC0F79B39",
+                "encrypted_size_2": "69B0CF8F01A74CEC864A3CD49E1C19EE"
+              },
+              "tu5_rus": {
+                "encrypted_gid_2": "697C8173DFF52065DDB45F3D1D1E703E",
+                "encrypted_size_2": "3FE26F26EBDF474917D39227EF3DF6CF"
+              }
+            }
+          },
+          "324333": {
+            "name": "Dead King (324333) Depot",
+            "manifests": {
+              "public": "4731501881144486504"
+            },
+            "maxsize": "8318709893",
+            "dlcappid": 324333
+          },
+          "branches": {
+            "public": {
+              "buildid": 522235
+            },
+            "alpha": {
+              "buildid": 305097,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "beta_ww": {
+              "buildid": 379409,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "dlc_11": {
+              "buildid": 491995,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "dlc_11_rus": {
+              "buildid": 492001,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "dlc11_tu4": {
+              "buildid": 494998,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "dlc11_tu4_rus": {
+              "buildid": 495001,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "gm": {
+              "buildid": 401492,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu1": {
+              "buildid": 425239,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu2": {
+              "buildid": 440290,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu3_v2": {
+              "buildid": 453039,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu4": {
+              "buildid": 473256,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu5": {
+              "buildid": 522235,
+              "description": "",
+              "pwdrequired": 1
+            },
+            "tu5_rus": {
+              "buildid": 522216,
+              "description": "",
+              "pwdrequired": 1
+            }
+          }
+        }
+      }
+    }
+  },
+  "344600": {
+    "original": {
+      "appinfo": {
+        "appid": 344600,
+        "common": {
+          "name": "Assassin's Creed Unity - Secret of the Revolution - Uplay Activation",
+          "section_type": "ownersonly",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "oslist": "",
+          "associations": {},
+          "gameid": 344600
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650,
+          "legacykeyregistrylocation": "HKEY_CURRENT_USER\\Software\\Valve\\TestApp344600\\SteamKey",
+          "legacykeyregistrationmethod": "registry",
+          "supportscdkeycopytoclipboard": 1,
+          "showcdkeyonlaunch": 1,
+          "legacykeylinkedexternally": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 344600,
+        "common": {
+          "name": "Assassin's Creed Unity - Secret of the Revolution - Uplay Activation",
+          "section_type": "ownersonly",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "oslist": "",
+          "associations": {},
+          "gameid": 344600,
+          "sortas": "Assassin's Creed Unity - Secret of the Revolution - Uplay Activation"
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650,
+          "legacykeyregistrylocation": "HKEY_CURRENT_USER\\Software\\Valve\\TestApp344600\\SteamKey",
+          "legacykeyregistrationmethod": "registry",
+          "supportscdkeycopytoclipboard": 1,
+          "showcdkeyonlaunch": 1,
+          "legacykeylinkedexternally": 1
+        }
+      }
+    }
+  },
+  "324333": {
+    "original": {
+      "appinfo": {
+        "appid": 324333,
+        "common": {
+          "name": "Assassin\u2019s Creed Unity - Dead Kings",
+          "section_type": "ownersonly",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "associations": {},
+          "gameid": 324333
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 324333,
+        "common": {
+          "name": "Assassin\u2019s Creed Unity - Dead Kings",
+          "section_type": "ownersonly",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "associations": {},
+          "gameid": 324333,
+          "sortas": "Assassin\u2019s Creed Unity - Dead Kings"
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650
+        }
+      }
+    }
+  },
+  "330960": {
+    "original": {
+      "appinfo": {
+        "appid": 330960,
+        "common": {
+          "name": "Assassin\u2019s Creed Unity - WW Uplay Activation",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "associations": {},
+          "gameid": 330960
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650,
+          "legacykeyregistrationmethod": "api",
+          "legacykeylinkedexternally": 1,
+          "legacykeyproofofpurchaseticket": 1,
+          "proofofpurchaseticketrevision": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 330960,
+        "common": {
+          "name": "Assassin\u2019s Creed Unity - WW Uplay Activation",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "associations": {},
+          "gameid": 330960,
+          "sortas": "Assassin\u2019s Creed Unity - WW Uplay Activation"
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650,
+          "legacykeyregistrationmethod": "api",
+          "legacykeylinkedexternally": 1,
+          "legacykeyproofofpurchaseticket": 1,
+          "proofofpurchaseticketrevision": 1
+        }
+      }
+    }
+  },
+  "324331": {
+    "original": {
+      "appinfo": {
+        "appid": 324331,
+        "common": {
+          "name": "Assassin\u2019s Creed Unity Revolutionary Armaments Pack",
+          "section_type": "ownersonly",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "metacritic_name": "Assassin\u2019s Creed Unity Revolutionary Armaments Pack",
+          "controller_support": "partial",
+          "small_capsule": {
+            "english": "capsule_231x87.jpg",
+            "russian": "capsule_231x87_russian.jpg"
+          },
+          "header_image": {
+            "english": "header.jpg",
+            "russian": "header_russian.jpg"
+          },
+          "store_asset_mtime": 1416504932,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Ubisoft"
+            },
+            "1": {
+              "type": "publisher",
+              "name": "Ubisoft"
+            }
+          },
+          "primary_genre": 1,
+          "genres": {
+            "0": 1,
+            "1": 25
+          },
+          "category": {
+            "category_2": 1,
+            "category_9": 1,
+            "category_1": 1,
+            "category_18": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "arabic": {
+              "subtitles": "true"
+            },
+            "czech": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "dutch": {
+              "supported": "true",
+              "subtitles": "true"
+            }
+          },
+          "gameid": 324331,
+          "store_tags": {
+            "0": 19,
+            "1": 21
+          },
+          "review_score": 5,
+          "review_percentage": 45
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650,
+          "legacykeyregistrylocation": "HKEY_CURRENT_USER\\Software\\Valve\\TestApp324331\\SteamKey",
+          "legacykeyregistrationmethod": "registry",
+          "supportscdkeycopytoclipboard": 1,
+          "showcdkeyonlaunch": 1,
+          "legacykeylinkedexternally": 1,
+          "developer": "Ubisoft",
+          "publisher": "Ubisoft",
+          "homepage": "http://www.assassinscreed.com",
+          "dlcavailableonstore": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 324331,
+        "common": {
+          "name": "Assassin\u2019s Creed Unity Revolutionary Armaments Pack",
+          "section_type": "ownersonly",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "metacritic_name": "Assassin\u2019s Creed Unity Revolutionary Armaments Pack",
+          "controller_support": "partial",
+          "small_capsule": {
+            "english": "capsule_231x87.jpg",
+            "russian": "capsule_231x87_russian.jpg"
+          },
+          "header_image": {
+            "english": "header.jpg",
+            "russian": "header_russian.jpg"
+          },
+          "store_asset_mtime": 1416504932,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Ubisoft"
+            },
+            "1": {
+              "type": "publisher",
+              "name": "Ubisoft"
+            }
+          },
+          "primary_genre": 1,
+          "genres": {
+            "0": 1,
+            "1": 25
+          },
+          "category": {
+            "category_2": 1,
+            "category_9": 1,
+            "category_1": 1,
+            "category_18": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "arabic": {
+              "subtitles": "true"
+            },
+            "czech": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "dutch": {
+              "supported": "true",
+              "subtitles": "true"
+            }
+          },
+          "gameid": 324331,
+          "store_tags": {
+            "0": 19,
+            "1": 21
+          },
+          "review_score": 5,
+          "review_percentage": 45,
+          "sortas": "Assassin\u2019s Creed Unity Revolutionary Armaments Pack"
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650,
+          "legacykeyregistrylocation": "HKEY_CURRENT_USER\\Software\\Valve\\TestApp324331\\SteamKey",
+          "legacykeyregistrationmethod": "registry",
+          "supportscdkeycopytoclipboard": 1,
+          "showcdkeyonlaunch": 1,
+          "legacykeylinkedexternally": 1,
+          "developer": "Ubisoft",
+          "publisher": "Ubisoft",
+          "homepage": "http://www.assassinscreed.com",
+          "dlcavailableonstore": 1
+        }
+      }
+    }
+  },
+  "324332": {
+    "original": {
+      "appinfo": {
+        "appid": 324332,
+        "common": {
+          "name": "Assassin\u2019s Creed\u00ae Unity Secrets of the Revolution",
+          "section_type": "ownersonly",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "metacritic_name": "ULC Pack 1",
+          "small_capsule": {
+            "english": "capsule_231x87.jpg",
+            "russian": "capsule_231x87_russian.jpg"
+          },
+          "header_image": {
+            "english": "header.jpg",
+            "russian": "header_russian.jpg"
+          },
+          "store_asset_mtime": 1420209190,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Ubisoft"
+            }
+          },
+          "primary_genre": 0,
+          "genres": {
+            "0": 1,
+            "1": 25
+          },
+          "category": {
+            "category_2": 1,
+            "category_9": 1,
+            "category_1": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "arabic": {
+              "subtitles": "true"
+            },
+            "czech": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "dutch": {
+              "supported": "true",
+              "subtitles": "true"
+            }
+          },
+          "steam_release_date": 1421776800,
+          "gameid": 324332,
+          "store_tags": {
+            "0": 19,
+            "1": 21
+          },
+          "review_score": 5,
+          "review_percentage": 47
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650,
+          "developer": "Ubisoft",
+          "homepage": "http://www.assassinscreed.com",
+          "dlcavailableonstore": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 324332,
+        "common": {
+          "name": "Assassin\u2019s Creed\u00ae Unity Secrets of the Revolution",
+          "section_type": "ownersonly",
+          "type": "hidden_DLC",
+          "parent": 289650,
+          "releasestate": "released",
+          "metacritic_name": "ULC Pack 1",
+          "small_capsule": {
+            "english": "capsule_231x87.jpg",
+            "russian": "capsule_231x87_russian.jpg"
+          },
+          "header_image": {
+            "english": "header.jpg",
+            "russian": "header_russian.jpg"
+          },
+          "store_asset_mtime": 1420209190,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Ubisoft"
+            }
+          },
+          "primary_genre": 0,
+          "genres": {
+            "0": 1,
+            "1": 25
+          },
+          "category": {
+            "category_2": 1,
+            "category_9": 1,
+            "category_1": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "arabic": {
+              "subtitles": "true"
+            },
+            "czech": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "dutch": {
+              "supported": "true",
+              "subtitles": "true"
+            }
+          },
+          "steam_release_date": 1421776800,
+          "gameid": 324332,
+          "store_tags": {
+            "0": 19,
+            "1": 21
+          },
+          "review_score": 5,
+          "review_percentage": 47,
+          "sortas": "Assassin\u2019s Creed\u00ae Unity Secrets of the Revolution"
+        },
+        "extended": {
+          "dlcforappid": 289650,
+          "mustownapptopurchase": 289650,
+          "developer": "Ubisoft",
+          "homepage": "http://www.assassinscreed.com",
+          "dlcavailableonstore": 1
+        }
+      }
+    }
+  }
+}
