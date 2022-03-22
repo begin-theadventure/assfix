@@ -1,6 +1,6 @@
 ## Make Assasin's Creed: 2, Brotherhood and Unity work.
 ### About
-This repo help get Assassins Creed 2, Brotherhood and Unity work with a native Linux Steam client 
+This will make the Assassins Creed 2, Brotherhood and Unity work with the native Linux Steam client. 
 We do this by downloading an edited .json file which changes "DLC" to "hidden_DLC" and then using [Steam Metadata Editor](https://github.com/tralph3/Steam-Metadata-Editor) we patch appinfo.vdf file.
 
 After such procedure the games should launch!
