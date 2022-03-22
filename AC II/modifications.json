@@ -1,0 +1,65 @@
+{
+  "33362": {
+    "original": {
+      "appinfo": {
+        "appid": 33362,
+        "common": {
+          "name": "Assassin's Creed 2 - Mac",
+          "type": "hidden_DLC",
+          "parent": 33230,
+          "oslist": "macos",
+          "osarch": "",
+          "gameid": 33362,
+          "exfgls": 1
+        },
+        "extended": {
+          "developer": "",
+          "dlcforappid": 33230,
+          "gamedir": "Assassins Creed 2 Mac Content",
+          "homepage": "",
+          "icon": "",
+          "legacykeyregistrationmethod": "registry",
+          "legacykeyregistrylocation": "HKEY_CURRENT_USER\\Software\\Valve\\TestApp33362\\SteamKey",
+          "mustownapptopurchase": 33230,
+          "noservers": 0,
+          "primarycache": 33362,
+          "showcdkeyonlaunch": 1,
+          "state": "eStateAvailable",
+          "validoslist": "macos",
+          "visibleonlywhensubscribed": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 33362,
+        "common": {
+          "name": "Assassin's Creed 2 - Mac",
+          "type": "hidden_DLC",
+          "parent": 33230,
+          "oslist": "macos",
+          "osarch": "",
+          "gameid": 33362,
+          "exfgls": 1,
+          "sortas": "Assassin's Creed 2 - Mac"
+        },
+        "extended": {
+          "developer": "",
+          "dlcforappid": 33230,
+          "gamedir": "Assassins Creed 2 Mac Content",
+          "homepage": "",
+          "icon": "",
+          "legacykeyregistrationmethod": "registry",
+          "legacykeyregistrylocation": "HKEY_CURRENT_USER\\Software\\Valve\\TestApp33362\\SteamKey",
+          "mustownapptopurchase": 33230,
+          "noservers": 0,
+          "primarycache": 33362,
+          "showcdkeyonlaunch": 1,
+          "state": "eStateAvailable",
+          "validoslist": "macos",
+          "visibleonlywhensubscribed": 1
+        }
+      }
+    }
+  }
+}
