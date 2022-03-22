@@ -7,18 +7,23 @@ After such procedure the games should launch!
 
 ### How to apply
 The patch can be applied in several ways:
-1) Bash script (automatic)
-[All at once](https://github.com/begin-theadventure/acfix/releases/tag/ACA).
-[Assassin's Creed 2](https://github.com/begin-theadventure/acfix/releases/tag/AC2)
-[Assassin's Creed Brotherhood](https://github.com/begin-theadventure/acfix/releases/tag/ACB)
-[Assassin's Creed Unity](https://github.com/begin-theadventure/acfix/releases/tag/ACU)
-Make it executable
+1) Bash script (automatic):
+
+[All at once](https://github.com/begin-theadventure/acfix/releases/tag/ACA), 
+[Assassin's Creed 2](https://github.com/begin-theadventure/acfix/releases/tag/AC2), 
+[Assassin's Creed Brotherhood](https://github.com/begin-theadventure/acfix/releases/tag/ACB), 
+[Assassin's Creed Unity](https://github.com/begin-theadventure/acfix/releases/tag/ACU).
+
+Make it executable:
 Terminal: chmod +x name; ./name
 
 GUI: Properties -> Permissions -> ..
 
-2) Terminal
+
+2) Terminal:
+
 Have a look at the scripts (here on GitHub) and just copy the commands.
 
-3) (almost all w/) GUI
+3) (almost all w/) GUI:
+
 Download [Steam Metadata Editor](https://github.com/tralph3/Steam-Metadata-Editor) -> download modifications.json -> move to ~/.local/share/Steam-Metadata-Editor/config -> open terminal -> cd ~/Steam-Metadata-Editor/src/ -> steammetadataeditor -s
