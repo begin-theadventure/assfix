@@ -1,0 +1,63 @@
+{
+  "48197": {
+    "original": {
+      "appinfo": {
+        "appid": 48197,
+        "common": {
+          "name": "Assassin's Creed Brotherhood - Standard CD Key Mac",
+          "type": "DLC",
+          "parent": 48190,
+          "oslist": "macos",
+          "gameid": 48197,
+          "exfgls": 1
+        },
+        "extended": {
+          "developer": "",
+          "dlcforappid": 48190,
+          "gamedir": "Assassin's Creed Brotherhood - Standard CD Key Mac",
+          "homepage": "",
+          "icon": "",
+          "legacykeyregistrationmethod": "registry",
+          "legacykeyregistrylocation": "HKEY_CURRENT_USER\\Software\\Valve\\TestApp48197\\SteamKey",
+          "mustownapptopurchase": 48190,
+          "noservers": 0,
+          "primarycache": 7,
+          "showcdkeyonlaunch": 1,
+          "state": "eStateAvailable",
+          "validoslist": "macos",
+          "visibleonlywhensubscribed": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 48197,
+        "common": {
+          "name": "Assassin's Creed Brotherhood - Standard CD Key Mac",
+          "type": "hidden_DLC",
+          "parent": 48190,
+          "oslist": "macos",
+          "gameid": 48197,
+          "exfgls": 1,
+          "sortas": "Assassin's Creed Brotherhood - Standard CD Key Mac"
+        },
+        "extended": {
+          "developer": "",
+          "dlcforappid": 48190,
+          "gamedir": "Assassin's Creed Brotherhood - Standard CD Key Mac",
+          "homepage": "",
+          "icon": "",
+          "legacykeyregistrationmethod": "registry",
+          "legacykeyregistrylocation": "HKEY_CURRENT_USER\\Software\\Valve\\TestApp48197\\SteamKey",
+          "mustownapptopurchase": 48190,
+          "noservers": 0,
+          "primarycache": 7,
+          "showcdkeyonlaunch": 1,
+          "state": "eStateAvailable",
+          "validoslist": "macos",
+          "visibleonlywhensubscribed": 1
+        }
+      }
+    }
+  }
+}
