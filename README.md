@@ -15,6 +15,7 @@ The patch can be applied in several ways:
 [Assassin's Creed Unity](https://github.com/begin-theadventure/acfix/releases/tag/ACU).
 
 Make it executable:
+
 Terminal: chmod +x name; ./name
 
 GUI: Properties -> Permissions -> ..
