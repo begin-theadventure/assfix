@@ -16,7 +16,7 @@ The patch can be applied in several ways:
 
 Make it executable:
 
-Terminal: chmod +x name; ./name
+Terminal: chmod +x name
 
 GUI: Properties -> Permissions -> ..
 
