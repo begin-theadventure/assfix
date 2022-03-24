@@ -26,7 +26,7 @@ Have a look at the scripts (here on GitHub) and just copy the commands.
 
 3) (almost all w/) GUI:
 
-Download [Steam Metadata Editor](https://github.com/tralph3/Steam-Metadata-Editor) -> download modifications.json -> move to ~/.local/share/Steam-Metadata-Editor/config -> open terminal -> cd ~/Steam-Metadata-Editor/src/ -> steammetadataeditor -s
+'Save as' [Steam Metadata Editor](https://raw.githubusercontent.com/tralph3/Steam-Metadata-Editor/master/src/steammetadataeditor) to x directory -> make it executable -> download modifications.json -> move to ~/.local/share/Steam-Metadata-Editor/config -> open terminal -> cd x directory -> ./steammetadataeditor -s
 
 
 #Additionaly, you may also need to install [**Steamworks Common Redistributables**](https://steamdb.info/app/228980) from the client or using `steam steam://install/228980`.
