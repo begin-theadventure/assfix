@@ -67,4 +67,7 @@ mv modifications.json ~/.local/share/Steam-Metadata-Editor/config
 
 echo "# Execute steammetadataeditor and save modifications.json to appinfo.vdf"
 ./steammetadataeditor -s
+
+echo "# Remove steammetadataeditor"
+rm steammetadataeditor
 echo "# End"
