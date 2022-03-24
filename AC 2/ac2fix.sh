@@ -33,3 +33,4 @@ echo "# Execute steammetadataeditor and save modifications.json to appinfo.vdf"
 
 echo "# Remove steammetadataeditor"
 rm steammetadataeditor
+echo "# End"
