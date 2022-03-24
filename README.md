@@ -28,4 +28,5 @@ Have a look at the scripts (here on GitHub) and just copy the commands.
 
 Download [Steam Metadata Editor](https://github.com/tralph3/Steam-Metadata-Editor) -> download modifications.json -> move to ~/.local/share/Steam-Metadata-Editor/config -> open terminal -> cd ~/Steam-Metadata-Editor/src/ -> steammetadataeditor -s
 
-(Additionaly you may also need to install [**Steamworks Common Redistributables**](https://steamdb.info/app/228980) from the client or using `steam steam://install/228980`.
+
+#Additionaly you may also need to install [**Steamworks Common Redistributables**](https://steamdb.info/app/228980) from the client or using `steam steam://install/228980`.
