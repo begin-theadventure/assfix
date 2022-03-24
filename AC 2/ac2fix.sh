@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "# Assassin's Creed 2 fix"
 echo "# Kill all Steam procceses"
 killall -9 steam
 
