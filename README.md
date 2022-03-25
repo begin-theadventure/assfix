@@ -29,4 +29,11 @@ Have a look at the scripts (here on GitHub) and just copy the commands.
 'Save as' [Steam Metadata Editor](https://raw.githubusercontent.com/tralph3/Steam-Metadata-Editor/master/src/steammetadataeditor) to x directory -> make it executable -> download modifications.json -> move to ~/.local/share/Steam-Metadata-Editor/config -> open terminal -> cd x directory -> ./steammetadataeditor -s
 
 
-#Additionaly, you may also need to install [**Steamworks Common Redistributables**](https://steamdb.info/app/228980) from the client or using `steam steam://install/228980`.
+### FAQ
+- Game still doesn't work.
+
+Additionaly, you may also need to install [**Steamworks Common Redistributables**](https://steamdb.info/app/228980) from the client or using `steam steam://install/228980`.
+
+- Does this work on Steam Deck? 
+
+Yes, Steam depends on python so Steam Deck has it installed by default.
