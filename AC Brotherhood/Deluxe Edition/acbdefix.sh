@@ -9,7 +9,7 @@ echo "# Remove modifications.json if already exists"
 rm modifications.json
 
 echo "# Download modifications.json"
-wget "wget "https://raw.githubusercontent.com/begin-theadventure/acfix/main/AC%20Brotherhood/Deluxe%20Edition/modifications.json""
+wget "https://raw.githubusercontent.com/begin-theadventure/acfix/main/AC%20Brotherhood/Deluxe%20Edition/modifications.json"
 
 echo "# Download steammetadataeditor"
 wget "https://raw.githubusercontent.com/tralph3/Steam-Metadata-Editor/master/src/steammetadataeditor"
